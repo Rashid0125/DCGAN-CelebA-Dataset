@@ -8,7 +8,8 @@ DCGAN.ipynb: This Jupyter Notebook file contains the implementation of the DCGAN
 training_progress.gif: This GIF file visually represents the evolution of the training progress over epochs. It provides a quick overview of how the generated images improve over time.
 
 
-![generator_evolution](https://github.com/Rashid0125/DCGAN-CelebA-Dataset/assets/102589680/8624c1d4-05a5-49d1-920f-a7ae45232a24)
+![training_evolution](https://github.com/Rashid0125/DCGAN-CelebA-Dataset/assets/102589680/b6b03921-2f23-4913-bf24-0c77923004fa)
+
 
 ## Prerequisites
 Make sure you have the following dependencies installed:
