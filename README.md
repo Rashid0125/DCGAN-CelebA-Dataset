@@ -15,12 +15,12 @@ training_progress.gif: This GIF file visually represents the evolution of the tr
 Make sure you have the following dependencies installed:
 
 -----
-gdown               4.7.3
-matplotlib          3.7.1
-numpy               1.25.2
-session_info        1.0.0
-torch               2.1.0+cu121
-torchvision         0.16.0+cu121
+* gdown               4.7.3
+* matplotlib          3.7.1
+* numpy               1.25.2
+* session_info        1.0.0
+* torch               2.1.0+cu121
+* torchvision         0.16.0+cu121
 
 You can install these dependencies using the following command:
 
